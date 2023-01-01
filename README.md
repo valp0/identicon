@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+This is an identicon generator created with learning purposes.
 
 ## Installation
 
